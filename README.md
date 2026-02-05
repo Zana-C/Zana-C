@@ -13,11 +13,12 @@ Software Engineering undergraduate focused on Generative AI, local LLM inference
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Zana-C&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)
+<img src="https://github-readme-stats.vercel.app/api?username=Zana-C&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false" />
 
-![](https://nirzak-streak-stats.vercel.app/?user=Zana-C&theme=blue_navy&hide_border=false)
+<img src="https://nirzak-streak-stats.vercel.app/?user=Zana-C&theme=blue_navy&hide_border=false" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zana-C&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zana-C&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Zana-C&icon=0&color=0)](https://visitcount.itsvg.in)
 
